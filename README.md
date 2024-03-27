@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [where is my bus](https://github.com/ISOLATEDMAN/Where_is_my_bus)
 
-- 🌱 I’m currently learning **FLUTTER,FIREBASE,NODE JS**
+- 🌱 I’m currently learning **FLUTTER,FIREBASE,MACHINE LEARNING,DJANGO**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rho-self.vercel.app](https://my-portfolio-rho-self.vercel.app)
 
