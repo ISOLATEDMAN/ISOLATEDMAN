@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pitching Random ideas and making an app out of it .Soon going to deploy my first app in play store**
 
-- 🌱 I’m currently learning **STATEM ANAGEMENT(FLUTTER),NODE JS,ML**
+- 🌱 I’m currently learning **STATE MANAGEMENT(FLUTTER),NODE JS,ML**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rho-self.vercel.app/](https://my-portfolio-rho-self.vercel.app/)
 
