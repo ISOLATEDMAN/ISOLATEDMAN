@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isolatedman&label=Profile%20views&color=0e75b6&style=flat" alt="isolatedman" /> </p>
 
 - 🔭 I’m currently working on **Pitching Random ideas and making an app out of it .Soon going to deploy my first app in play store**
+  
+- Building **QuickValid.AI** 
 
 - 🌱 I’m currently learning **STATE MANAGEMENT(FLUTTER),NODE JS,ML**
 
