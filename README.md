@@ -7,7 +7,7 @@
   
 - Building **QuickValid.AI** 
 
-- 🌱 I’m currently learning **STATE MANAGEMENT(FLUTTER),NODE JS,ML**
+- 🌱 I’m currently learning **STATE MANAGEMENT(FLUTTER),NODE JS,ML and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-rho-self.vercel.app/](https://my-portfolio-rho-self.vercel.app/)
 
