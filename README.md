@@ -55,14 +55,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISOLATEDMAN&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISOLATEDMAN&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-### 🚀 Contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISOLATEDMAN&theme=radical" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISOLATEDMAN&theme=radical" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -70,7 +64,7 @@
 ### 📬 Connect with Me
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🌍 Portfolio: [your-portfolio.com](https://my-portfolio-kartikeyas-projects-c4cb5f50.vercel.app/)
 - 🎥 YouTube: [ISOLATED_MAN_](https://www.youtube.com/@ISOLATED_MAN_)
 - 💼 LinkedIn: [Kartikeya Samudrala](https://www.linkedin.com/in/ISOLATEDMAN-59164b252/)
 
