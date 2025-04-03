@@ -1,8 +1,7 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ISOLATEDMAN-59164b252/" target="_blank">
