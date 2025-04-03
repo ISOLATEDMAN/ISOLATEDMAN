@@ -63,7 +63,7 @@
 
 ### 📬 Connect with Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [samudralakartikeya@gmail.com](mailto:samudralakartikeya@gmail.com)
 - 🌍 Portfolio: [your-portfolio.com](https://my-portfolio-kartikeyas-projects-c4cb5f50.vercel.app/)
 - 🎥 YouTube: [ISOLATED_MAN_](https://www.youtube.com/@ISOLATED_MAN_)
 - 💼 LinkedIn: [Kartikeya Samudrala](https://www.linkedin.com/in/ISOLATEDMAN-59164b252/)
