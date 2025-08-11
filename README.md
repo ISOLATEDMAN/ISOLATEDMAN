@@ -22,7 +22,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I have worked on both **product-based** and **SaaS-based** companies.
-- 📚 Currently building my micro-SaaS **[QUICKVALID.AI](https://quickvalid.ai)**.
+- 📚 Currently building my micro-SaaS **[QUICKVALID.AI]([https://quickvalid.ai](https://quickvalidai.framer.website))**.
 - ⚡ In my free time, I record my journey of building apps.
 
 ---
