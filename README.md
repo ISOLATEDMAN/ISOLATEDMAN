@@ -67,4 +67,4 @@
 - 🎥 YouTube: [ISOLATED_MAN_](https://www.youtube.com/@ISOLATED_MAN_)
 - 💼 LinkedIn: [Kartikeya Samudrala](https://www.linkedin.com/in/ISOLATEDMAN-59164b252/)
 
----
+----
