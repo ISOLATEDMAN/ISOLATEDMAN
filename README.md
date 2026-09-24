@@ -1,70 +1,70 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hey, I'm Kartikeya 👋</h1>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ISOLATEDMAN-59164b252/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<p align="center">
+  <a href="https://www.kartiklabs.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F76E9A&center=true&vCenter=true&width=600&lines=AI+Engineer+%C2%B7+AI+Application+Developer;I+build+AI+agents+that+ship+to+production;LangGraph+%C2%B7+RAG+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+Flutter" alt="Typing intro" />
   </a>
-  <a href="https://www.youtube.com/@ISOLATED_MAN_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://x.com/KARTIKEYA_S_1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://www.kartiklabs.app/"><img src="https://img.shields.io/badge/Portfolio-kartiklabs.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ISOLATEDMAN-59164b252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/krtk_twt"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@ISOLATED_MAN_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:samudralakartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-<h1 align="center">Hey there 👋</h1>
+### 🧠 About me
 
-### 👩‍💻 About Me
+I'm an **AI Engineer / AI Application Developer** from Hyderabad, India. I build **agentic AI systems and full-stack AI products end to end**, from the LLM orchestration layer down to the payments flow.
 
-- 🔭 I have worked on both **product-based** and **SaaS-based** companies.
-- 📚 Currently building my micro-SaaS **[QUICKVALID.AI](https://quickvalidai.framer.website)**.
-- ⚡ In my free time, I record my journey of building apps.
-
----
-
-### 🛠 Languages and Tools I Work With:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+- 💼 Working full-time as an **SDE 1**, building production AI agents and backend systems.
+- 🤖 Right now I'm going deep on **LLM apps, agents, RAG and evals**.
+- 🚀 I build indie products on the side and share the journey on [YouTube](https://www.youtube.com/@ISOLATED_MAN_).
+- 🎓 B.Tech in CS & Machine Learning, MLR Institute of Technology · GDSC MLRIT core member · mentored 150+ students in Flutter workshops.
+- 🏆 Hackathons: 🥇 College MicroProject · 🥈 Zenith 2024 · 🥉 Zignas 2023
 
 ---
 
-### 📊 My GitHub Stats
+### 🛠 Things I've built
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISOLATEDMAN&show_icons=true&theme=radical" alt="GitHub Stats" />
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[QuickValid.AI](https://play.google.com/store/apps/details?id=com.kartikships.quickvalidaiapp)** | AI startup-idea validator on the Play Store. A LangGraph engine runs risk, market and competitor analysis in parallel and streams the verdict over SSE. 300+ users and first paying customers. | LangGraph · NestJS · Flutter · Gemini · Tavily · Play Billing |
+| **[Agenix](https://github.com/ISOLATEDMAN/agenix-server)** | Autonomous Slack → Jira agent. Semantic ticket search with pgvector, multi-workspace OAuth, AES-256-GCM token encryption and a custom tool-calling agent runner. | NestJS · Gemini · PostgreSQL + pgvector · Drizzle |
+| **[MirrorCut](https://mirrorcut-webapp-lime.vercel.app)** | Upload a selfie and preview realistic haircuts on your own face, then get a barber-ready style card. | Next.js · NestJS · Supabase · Replicate |
+| **[GitPool](https://github.com/ISOLATEDMAN/GitPool)** | Gamified leaderboard for GitHub orgs that tracks commits, PRs, reviews and issues. | Next.js · TypeScript · PostgreSQL |
+
+---
+
+### ⚙️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,swift,nextjs,nestjs,react,nodejs,flutter&perline=10" alt="Languages and frameworks" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISOLATEDMAN&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISOLATEDMAN&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISOLATEDMAN&theme=radical" alt="GitHub Activity Graph" />
-</div>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,redis,mongodb,docker,vercel,git&perline=10" alt="Data and infra" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+</p>
 
 ---
 
-### 📬 Connect with Me
+### 📊 GitHub stats
 
-- 📧 Email: [samudralakartikeya@gmail.com](mailto:samudralakartikeya@gmail.com)
-- 🌍 Portfolio: [your-portfolio.com](https://my-portfolio-kartikeyas-projects-c4cb5f50.vercel.app/)
-- 🎥 YouTube: [ISOLATED_MAN_](https://www.youtube.com/@ISOLATED_MAN_)
-- 💼 LinkedIn: [Kartikeya Samudrala](https://www.linkedin.com/in/ISOLATEDMAN-59164b252/)
-
-----
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISOLATEDMAN&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ISOLATEDMAN&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISOLATEDMAN&theme=radical" alt="Contribution graph" />
+</p>
