@@ -190,8 +190,8 @@ AI haircut try-on. Upload a selfie, **preview realistic hairstyles on your own f
 ## GitHub Stats
 
 <p align="center">
-  <img height="215" src="https://raw.githubusercontent.com/ISOLATEDMAN/ISOLATEDMAN/metrics/stats.svg" alt="GitHub stats" />
-  <img height="215" src="https://raw.githubusercontent.com/ISOLATEDMAN/ISOLATEDMAN/metrics/languages.svg" alt="Most used languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/ISOLATEDMAN/ISOLATEDMAN/metrics/stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/ISOLATEDMAN/ISOLATEDMAN/metrics/languages.svg" alt="Most used languages" />
 </p>
 
 <p align="center">

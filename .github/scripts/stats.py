@@ -184,7 +184,7 @@ def languages_svg(base):
             f'<text x="{lx + 200}" y="{ly}" class="l" text-anchor="end">{100 * s / total:.1f}%</text></g>'
         )
     rows = (len(top) + 1) // 2
-    return card(495, 96 + rows * 26 + 8, "\n".join(body))
+    return card(495, max(215, 96 + rows * 26 + 8), "\n".join(body))
 
 
 def main():
