@@ -1,4 +1,4 @@
-name: Generate GitHub metrics
+name: Generate GitHub stats
 
 on:
   schedule:
@@ -11,37 +11,24 @@ permissions:
   contents: write
 
 concurrency:
-  group: metrics
-  cancel-in-progress: false
+  group: stats
+  cancel-in-progress: true
 
 jobs:
-  metrics:
+  stats:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
     steps:
-      - name: Overview
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.overview.svg
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
-          committer_branch: metrics
-          config_timezone: Asia/Kolkata
-          config_display: large
-          base: header, activity, community, repositories
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+      - uses: actions/checkout@v4
 
-      - name: Languages
-        uses: lowlighter/metrics@latest
+      - name: Build stat cards
+        run: python3 .github/scripts/stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
-          filename: metrics.languages.svg
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
-          committer_branch: metrics
-          config_timezone: Asia/Kolkata
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, shell, dockerfile, makefile, c++, cmake, swift, kotlin, objective-c, ruby
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 2%
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used
+          target_branch: metrics
+          build_dir: out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
