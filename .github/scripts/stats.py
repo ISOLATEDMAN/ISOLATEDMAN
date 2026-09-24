@@ -21,12 +21,12 @@ IGNORED_LANGS = {
     "Jupyter Notebook", "Mustache", "EJS",
 }
 
-BG = "#0d1117"
-BORDER = "#30363d"
-ACCENT = "#38bdf8"
-ACCENT_2 = "#818cf8"
-TEXT = "#e6edf3"
-MUTED = "#8b949e"
+BG = "#0a0a0a"
+BORDER = "#2e2e2e"
+ACCENT = "#ffffff"
+ACCENT_2 = "#8a8a8a"
+TEXT = "#f5f5f5"
+MUTED = "#a3a3a3"
 FONT = "'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif"
 
 
@@ -151,17 +151,18 @@ def stats_svg(base, days, commits, total):
 
 
 def languages_svg(base):
-    sizes, colors = {}, {}
+    sizes = {}
     for repo in base["repositories"]["nodes"]:
         for e in repo["languages"]["edges"]:
             name = e["node"]["name"]
             if name in IGNORED_LANGS:
                 continue
             sizes[name] = sizes.get(name, 0) + e["size"]
-            colors[name] = e["node"]["color"] or MUTED
     grand = sum(sizes.values()) or 1
     top = [kv for kv in sorted(sizes.items(), key=lambda kv: -kv[1]) if kv[1] / grand >= 0.01][:8]
     total = sum(s for _, s in top) or 1
+    shades = ["#ffffff", "#d4d4d4", "#a3a3a3", "#737373", "#525252", "#404040", "#333333", "#262626"]
+    colors = {name: shades[i] for i, (name, _) in enumerate(top)}
 
     body = [f'<text x="25" y="38" class="t">Most Used Languages</text>']
     # stacked bar

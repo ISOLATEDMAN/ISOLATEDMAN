@@ -1,17 +1,17 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,55:0c4a6e,100:312e81&height=190&text=Kartikeya%20Samudrala&fontSize=46&fontColor=e6edf3&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20AI%20Application%20Developer&descSize=18&descAlignY=66&descColor=7dd3fc" alt="Kartikeya Samudrala" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=190&text=Kartikeya%20Samudrala&fontSize=46&fontColor=e6edf3&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20AI%20Application%20Developer&descSize=18&descAlignY=66&descColor=a3a3a3" alt="Kartikeya Samudrala" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+production-grade+AI+agents;LangGraph+%E2%80%A2+RAG+%E2%80%A2+Tool+calling+%E2%80%A2+Fine-tuning;From+idea+%E2%86%92+MVP+%E2%86%92+paying+users" alt="Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=E5E5E5&center=true&vCenter=true&width=640&lines=Building+production-grade+AI+agents;LangGraph+%E2%80%A2+RAG+%E2%80%A2+Tool+calling+%E2%80%A2+Fine-tuning;From+idea+%E2%86%92+MVP+%E2%86%92+paying+users" alt="Intro" />
 </p>
 
 <p align="center">
-  <a href="https://www.kartiklabs.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ISOLATEDMAN-59164b252/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://x.com/krtk_twt"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=38bdf8" alt="X" /></a>
-  <a href="https://www.youtube.com/@ISOLATED_MAN_"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=38bdf8" alt="YouTube" /></a>
-  <a href="mailto:samudralakartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" /></a>
+  <a href="https://www.kartiklabs.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ISOLATEDMAN-59164b252/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://x.com/krtk_twt"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@ISOLATED_MAN_"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:samudralakartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
@@ -41,59 +41,59 @@ class Kartikeya:
   <tr>
     <td width="190"><b>LLMs & Providers</b></td>
     <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Hugging_Face-111111?style=flat-square&logo=huggingface&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Agents & Orchestration</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tool_Calling-0c4a6e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Multi--Agent_Systems-0c4a6e?style=flat-square" />
-      <img src="https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square&logo=langgraph&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tool_Calling-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Multi--Agent_Systems-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/MCP_Servers-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>RAG & Retrieval</b></td>
     <td>
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Embeddings-0c4a6e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Semantic_Search-0c4a6e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vector_DBs-0c4a6e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Tavily_Search-0c4a6e?style=flat-square" />
+      <img src="https://img.shields.io/badge/pgvector-111111?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Embeddings-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Semantic_Search-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vector_DBs-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Tavily_Search-111111?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><b>Fine-tuning & On-device</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Fine--tuning-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/HF_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/Transformers.js-312e81?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Text_Classification-312e81?style=flat-square" />
+      <img src="https://img.shields.io/badge/Fine--tuning-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/HF_Transformers-111111?style=flat-square&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers.js-111111?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Text_Classification-111111?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><b>Production AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Evals-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/Streaming_(SSE)-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/Prompt_Engineering-312e81?style=flat-square" />
-      <img src="https://img.shields.io/badge/Web_Scraping_Pipelines-312e81?style=flat-square" />
+      <img src="https://img.shields.io/badge/Evals-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streaming_(SSE)-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Web_Scraping_Pipelines-111111?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><b>Integrations</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square" />
-      <img src="https://img.shields.io/badge/Jira_API-0052CC?style=flat-square&logo=jira&logoColor=white" />
-      <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-      <img src="https://img.shields.io/badge/Webhooks-0c4a6e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
-      <img src="https://img.shields.io/badge/Play_Billing-414141?style=flat-square&logo=googleplay&logoColor=white" />
+      <img src="https://img.shields.io/badge/Slack_API-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Jira_API-111111?style=flat-square&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/OAuth_2.0-111111?style=flat-square&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webhooks-111111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Razorpay-111111?style=flat-square&logo=razorpay&logoColor=white" />
+      <img src="https://img.shields.io/badge/Play_Billing-111111?style=flat-square&logo=googleplay&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -140,7 +140,7 @@ AI startup-idea validator on the Play Store. A **LangGraph** engine runs risk, m
 
 `LangGraph` `NestJS` `Flutter` `Gemini` `Tavily` `Play Billing`
 
-<a href="https://play.google.com/store/apps/details?id=com.kartikships.quickvalidaiapp"><img src="https://img.shields.io/badge/Google_Play-0d1117?style=for-the-badge&logo=googleplay&logoColor=38bdf8" alt="Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.kartikships.quickvalidaiapp"><img src="https://img.shields.io/badge/Google_Play-111111?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -152,8 +152,8 @@ Autonomous **Slack → Jira agent**. It does semantic ticket search with **pgvec
 
 `NestJS` `Gemini` `PostgreSQL` `pgvector` `Drizzle`
 
-<a href="https://github.com/ISOLATEDMAN/agenix-server"><img src="https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Source" /></a>
-<a href="https://agenix-app.vercel.app"><img src="https://img.shields.io/badge/Live-0d1117?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live" /></a>
+<a href="https://github.com/ISOLATEDMAN/agenix-server"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
+<a href="https://agenix-app.vercel.app"><img src="https://img.shields.io/badge/Live-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
 
 </td>
 </tr>
@@ -167,7 +167,7 @@ AI haircut try-on. Upload a selfie, **preview realistic hairstyles on your own f
 
 `Next.js` `NestJS` `Supabase` `Replicate`
 
-<a href="https://mirrorcut-webapp-lime.vercel.app"><img src="https://img.shields.io/badge/Live-0d1117?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live" /></a>
+<a href="https://mirrorcut-webapp-lime.vercel.app"><img src="https://img.shields.io/badge/Live-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +179,7 @@ AI haircut try-on. Upload a selfie, **preview realistic hairstyles on your own f
 
 `Next.js` `TypeScript` `PostgreSQL` `Tailwind`
 
-<a href="https://github.com/ISOLATEDMAN/GitPool"><img src="https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Source" /></a>
+<a href="https://github.com/ISOLATEDMAN/GitPool"><img src="https://img.shields.io/badge/Source-111111?style=for-the-badge&logo=github&logoColor=white" alt="Source" /></a>
 
 </td>
 </tr>
@@ -205,5 +205,5 @@ AI haircut try-on. Upload a selfie, **preview realistic hairstyles on your own f
 <p align="center"><sub>Stats are generated daily by a GitHub Action in this repo.</sub></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:312e81,45:0c4a6e,100:0d1117&height=4" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:525252,100:000000&height=4" alt="" />
 </p>
