@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" fill="none">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+  .l { font: 400 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #a3a3a3; }
+  .v { font: 700 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f5f5f5; }
+  .big { font: 700 30px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f5f5f5; }
+  .cap { font: 500 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #a3a3a3; }
+</style>
+<rect x="0.5" y="0.5" rx="10" width="494" height="214" fill="#0a0a0a" stroke="#2e2e2e"/>
+<text x="25" y="38" class="t">GitHub Stats</text>
+<g><circle cx="31" cy="67.5" r="3.5" fill="#ffffff"/><text x="44" y="72" class="l">Total contributions</text><text x="275" y="72" class="v" text-anchor="end">2.1k</text></g>
+<g><circle cx="31" cy="91.5" r="3.5" fill="#8a8a8a"/><text x="44" y="96" class="l">Commits</text><text x="275" y="96" class="v" text-anchor="end">2.0k</text></g>
+<g><circle cx="31" cy="115.5" r="3.5" fill="#ffffff"/><text x="44" y="120" class="l">Pull requests</text><text x="275" y="120" class="v" text-anchor="end">35</text></g>
+<g><circle cx="31" cy="139.5" r="3.5" fill="#8a8a8a"/><text x="44" y="144" class="l">Public repositories</text><text x="275" y="144" class="v" text-anchor="end">52</text></g>
+<g><circle cx="31" cy="163.5" r="3.5" fill="#ffffff"/><text x="44" y="168" class="l">Stars earned</text><text x="275" y="168" class="v" text-anchor="end">10</text></g>
+<g><circle cx="31" cy="187.5" r="3.5" fill="#8a8a8a"/><text x="44" y="192" class="l">Longest streak</text><text x="275" y="192" class="v" text-anchor="end">19 days</text></g>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8a8a8a"/></linearGradient></defs><circle cx="395" cy="112" r="52" stroke="#2e2e2e" stroke-width="7"/><circle cx="395" cy="112" r="52" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-dasharray="326.7" transform="rotate(-90 395 112)"/><text x="395" y="122" class="big" text-anchor="middle">5</text><text x="395" y="190" class="cap" text-anchor="middle">Current streak</text>
+</svg>
