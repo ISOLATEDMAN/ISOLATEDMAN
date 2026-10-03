@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" fill="none">
+<style>
+  .t { font: 600 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+  .l { font: 400 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #a3a3a3; }
+  .v { font: 700 13.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f5f5f5; }
+  .big { font: 700 30px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f5f5f5; }
+  .cap { font: 500 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #a3a3a3; }
+</style>
+<rect x="0.5" y="0.5" rx="10" width="494" height="214" fill="#0a0a0a" stroke="#2e2e2e"/>
+<text x="25" y="38" class="t">Most Used Languages</text>
+<mask id="m"><rect x="25" y="56" width="445" height="10" rx="5" fill="#fff"/></mask>
+<g mask="url(#m)"><rect x="25.00" y="56" width="161.71" height="10" fill="#ffffff"/><rect x="186.21" y="56" width="129.90" height="10" fill="#d4d4d4"/><rect x="315.61" y="56" width="113.51" height="10" fill="#a3a3a3"/><rect x="428.62" y="56" width="41.88" height="10" fill="#737373"/></g>
+<g><circle cx="30" cy="91.5" r="5" fill="#ffffff"/><text x="43" y="96" class="v">JavaScript</text><text x="225" y="96" class="l" text-anchor="end">36.2%</text></g>
+<g><circle cx="260" cy="91.5" r="5" fill="#d4d4d4"/><text x="273" y="96" class="v">TypeScript</text><text x="455" y="96" class="l" text-anchor="end">29.1%</text></g>
+<g><circle cx="30" cy="117.5" r="5" fill="#a3a3a3"/><text x="43" y="122" class="v">Dart</text><text x="225" y="122" class="l" text-anchor="end">25.4%</text></g>
+<g><circle cx="260" cy="117.5" r="5" fill="#737373"/><text x="273" y="122" class="v">Python</text><text x="455" y="122" class="l" text-anchor="end">9.3%</text></g>
+</svg>
