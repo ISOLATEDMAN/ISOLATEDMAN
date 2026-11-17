@@ -12,6 +12,7 @@
   <a href="https://x.com/krtk_twt"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@ISOLATED_MAN_"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="mailto:samudralakartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ISOLATEDMAN&style=for-the-badge&color=111111" alt="Profile Views" />
 </p>
 
 <br/>
